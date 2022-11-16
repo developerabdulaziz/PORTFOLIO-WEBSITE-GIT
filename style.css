@@ -224,7 +224,7 @@ h4{
     /* padding: 0px 20px; */
 }
 
-/*===== Lets section part  =========*/
+/*===== vontact section part  =========*/
 .contact {
     text-align: center;
     background-color: #191919;
@@ -242,4 +242,49 @@ h4{
     text-transform: capitalize;
     color: white;
     padding: 8px 0px;
+}
+
+
+
+/*===== footer section part  =========*/
+/* footer {
+    text-align: center;
+    background: #101010;
+    padding: 40px 0px;
+    color: white;
+} */
+
+
+footer {
+    text-align: center;
+    background-color: #101010;
+    color: white;
+    padding: 50px;
+}
+footer h2{
+    font-size: 35px;
+    margin-bottom: 15px;
+}
+footer p{
+    font-size: 17px;
+    margin-bottom: 30px;
+}
+.social-media{
+    margin-bottom: 30px;
+}
+.social-media i {
+    color: white;
+    background-color: red;
+    padding: 10px;
+    border-radius: 100%;
+    margin-right: 10px;
+
+}
+.social-media i:hover{
+    padding: 15px;
+    transition: .5s;
+    font-size: 20px;
+}
+.social-media i {
+    margin-bottom: 50px;
 }
